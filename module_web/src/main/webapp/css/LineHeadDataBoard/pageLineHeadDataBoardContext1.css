@@ -1,0 +1,23 @@
+.context1{
+    height:100%;
+    width: 100%;
+    background:url('/img/background.png') no-repeat;
+    background-size: 100% 100%;
+}
+
+.table{
+   /* margin-top: 5rem;*/
+}
+
+.table tr td{
+    border: 0px solid transparent !important;
+}
+.table label{
+    font-size: 3rem;
+    color: white;
+}
+
+#table1 label{
+    font-size: 3rem;
+    color: white;
+}

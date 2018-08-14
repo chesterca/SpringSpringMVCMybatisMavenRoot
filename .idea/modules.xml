@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringSpringMVCMybatisMavenRoot.iml" filepath="$PROJECT_DIR$/SpringSpringMVCMybatisMavenRoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_dao/module_dao.iml" filepath="$PROJECT_DIR$/module_dao/module_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_pojo/module_pojo.iml" filepath="$PROJECT_DIR$/module_pojo/module_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_service/module_service.iml" filepath="$PROJECT_DIR$/module_service/module_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_web/module_web.iml" filepath="$PROJECT_DIR$/module_web/module_web.iml" />
+    </modules>
+  </component>
+</project>
